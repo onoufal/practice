@@ -46,6 +46,12 @@ def add(num1, num2):
 
 ```
 
-[x] Osama
-[x] Saed
-[ ] Samer
+* [x] Osama
+* [x] Saed
+* [ ] Samer
+
+| Name| Age |
+|-----|-----|
+|Osama|  33 |
+|Saed |  31 |
+
